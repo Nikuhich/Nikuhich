@@ -3,7 +3,7 @@
 - 🌱 I’m currently working 
 - 📫 How to reach me: neyton250@gmail.com
 
-Hi, my name is Nikita. I am a beginner Frontend developer, HTML coder. I am from the capital of Uzbekistan, Tashkent. Now I work freelance.
+Hi, my name is Nikita. I am a middle Frontend developer, HTML coder. I am from the capital of Uzbekistan, Tashkent. Now I work freelance.
 
 I work on the following freelance exchanges:
 upwork,
